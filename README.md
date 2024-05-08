@@ -14,6 +14,7 @@
   <li>Responsive Design</li>
 </ul>
 <h3>Screenshots</h3>
+<img src="https://github.com/ansuman23/ExpenseTracker/assets/131350928/4b790000-e1ba-4eb3-8e4b-f5584101fd25"/>
 ![Screenshot 2024-05-08 185319](https://github.com/ansuman23/ExpenseTracker/assets/131350928/4b790000-e1ba-4eb3-8e4b-f5584101fd25)
 ![Screenshot 2024-05-08 183002](https://github.com/ansuman23/ExpenseTracker/assets/131350928/7daeb17f-66d5-4fae-ae50-75b794fa4b2c)
 ![Screenshot 2024-05-08 183053](https://github.com/ansuman23/ExpenseTracker/assets/131350928/64e8c928-7e4a-4a8e-9489-1695025869ea)
@@ -28,7 +29,7 @@
 
 <div align="center">
   
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) &nbsp; ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white) &nbsp; ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white) &nbsp; ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)   
+ &nbsp; ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white) &nbsp; ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white) &nbsp; ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)   
 
 </div>
 
