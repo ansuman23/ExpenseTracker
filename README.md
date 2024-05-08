@@ -16,7 +16,7 @@
 <h3>Screenshots</h3>
 <img src="https://github.com/ansuman23/ExpenseTracker/assets/131350928/4b790000-e1ba-4eb3-8e4b-f5584101fd25"/>
 <img src="https://github.com/ansuman23/ExpenseTracker/assets/131350928/7daeb17f-66d5-4fae-ae50-75b794fa4b2c"/>
-<img src="https://github.com/ansuman23/ExpenseTracker/assets/131350928/64e8c928-7e4a-4a8e-9489-1695025869ea"/>
+<img src="https://github.com/ansuman23/ExpenseTracker/assets/131350928/64e8c928-7e4a-4a8e-9489-1695025869ea" width="100%"/>
 <img src="https://github.com/ansuman23/ExpenseTracker/assets/131350928/4a9643fe-8e6b-4249-a34a-5d5a33d2c0de"/>
 
 <h3>Technologies</h3>
