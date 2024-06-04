@@ -37,7 +37,7 @@
 ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
   
 </div>
-## 👨🏻‍💻 Contributors
+<h3>Contributors</h3>
 
 <div align="center">
 
